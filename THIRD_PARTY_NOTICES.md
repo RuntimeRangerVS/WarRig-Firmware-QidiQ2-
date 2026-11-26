@@ -8,6 +8,8 @@ which allow them to be used and shipped with WarRig.
 
 Shipped in source form in the WarRig package (`lvgl/`) and built into the screen program.
 Licence: MIT. The full text is in `lvgl/LICENCE.txt` in the package.
+The small libraries that come inside LVGL (for example its QR code generator and TrueType reader)
+keep their own licence files next to their code in `lvgl/src/libs/`.
 
 ```text
 MIT licence
