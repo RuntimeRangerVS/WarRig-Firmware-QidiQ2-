@@ -7,6 +7,7 @@
   <img alt="Stock firmware" src="https://img.shields.io/badge/stock%20firmware-01.01.02.01%20to%2001.01.03.04-555">
   <img alt="Version" src="https://img.shields.io/badge/WarRig-V1.0%20release%20candidate-ff9a3c">
   <img alt="Languages" src="https://img.shields.io/badge/languages-8-555">
+  <img alt="License" src="https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-555">
 </p>
 
 # WarRig Firmware Mod for the QIDI Q2
@@ -39,6 +40,7 @@ Windows PC, and the stock screen is kept on the printer the whole time, so you c
 - [Languages and looks](#languages-and-looks)
 - [FAQ and troubleshooting](#faq-and-troubleshooting)
 - [Credits](#credits)
+- [License](#license)
 - [Disclaimer](#disclaimer)
 
 ---
@@ -421,6 +423,20 @@ WarRig uses, and thanks:
   printer; WarRig talks to them and adds print macros, it does not change or ship them.
 - [Tailscale](https://tailscale.com) - optional remote access, downloaded from Tailscale when you set it up.
 - [ntfy](https://ntfy.sh) - optional phone alerts.
+
+---
+
+## License
+
+WarRig is free for personal, hobby and other noncommercial use under the
+[PolyForm Noncommercial License 1.0.0](LICENSE.md). You may use it, change it and share it for noncommercial
+purposes, as long as the licence and its `Required Notice` line go with every copy.
+
+Selling WarRig, bundling it with a printer or product you sell, or using it in a paid service needs separate
+written permission. Ask by opening an issue on this repository.
+
+Parts made by others (LVGL, the Inter typeface, and the copied parts of the printer's stock macros) keep their
+own licences. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
 
 ---
 
