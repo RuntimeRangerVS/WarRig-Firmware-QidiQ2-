@@ -1,2 +1,1 @@
-# WarRig-Firmware-QidiQ2-
-Custom Firmware For Qidi Q2 3D Printers
+# WarRig Firmware Mod For Qidi Q2
